@@ -1,0 +1,22 @@
+{
+  "name": "ilcorsaronero-stremio",
+  "version": "1.0.0",
+  "description": "An addon for stremio",
+  "main": "addon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasalvucci/ilcorsaronero-stremio.git"
+  },
+  "author": "Andrea Salvucci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreasalvucci/ilcorsaronero-stremio/issues"
+  },
+  "homepage": "https://github.com/andreasalvucci/ilcorsaronero-stremio#readme",
+  "dependencies": {
+    "stremio-addon-sdk": "1.0.x"
+  }
+}
